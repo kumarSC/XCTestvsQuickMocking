@@ -1,0 +1,181 @@
+{
+    "expand": "renderedFields,names,schema,transitions,operations,editmeta,changelog,versionedRepresentations",
+    "id": "10001",
+    "self": "https://sushant.jira-dev.com/rest/api/2/issue/10001",
+    "key": "TES-2",
+    "fields": {
+        "issuetype": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/issuetype/10000",
+            "id": "10000",
+            "description": "Created by JIRA Agile - do not edit or delete. Issue type for a big user story that needs to be broken down.",
+            "iconUrl": "https://sushant.jira-dev.com/images/icons/ico_epic.png",
+            "name": "Epic",
+            "subtask": false
+        },
+        "timespent": null,
+        "project": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/project/10000",
+            "id": "10000",
+            "key": "TES",
+            "name": "Testing",
+            "avatarUrls": {
+                "48x48": "https://sushant.jira-dev.com/secure/projectavatar?avatarId=10011",
+                "24x24": "https://sushant.jira-dev.com/secure/projectavatar?size=small&avatarId=10011",
+                "16x16": "https://sushant.jira-dev.com/secure/projectavatar?size=xsmall&avatarId=10011",
+                "32x32": "https://sushant.jira-dev.com/secure/projectavatar?size=medium&avatarId=10011"
+            }
+        },
+        "fixVersions": [],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "lastViewed": "2015-07-01T06:54:13.476+0000",
+        "watches": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/issue/TES-2/watchers",
+            "watchCount": 1,
+            "isWatching": true
+        },
+        "created": "2015-06-24T08:50:10.132+0000",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/priority/3",
+            "iconUrl": "https://sushant.jira-dev.com/images/icons/priorities/medium.png",
+            "name": "Medium",
+            "id": "3"
+        },
+        "customfield_10023": "Not Started",
+        "customfield_10024": null,
+        "customfield_10025": null,
+        "labels": [
+            "blitz_test",
+            "bugfix"
+        ],
+        "customfield_10026": [],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": null,
+        "customfield_10019": null,
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "issuelinks": [],
+        "assignee": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/user?username=schoudhary",
+            "name": "schoudhary",
+            "key": "schoudhary",
+            "emailAddress": "schoudhary@atlassian.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=48",
+                "24x24": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=24",
+                "16x16": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=16",
+                "32x32": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=32"
+            },
+            "displayName": "Administrator",
+            "active": true,
+            "timeZone": "Etc/GMT"
+        },
+        "updated": "2015-06-24T08:50:10.132+0000",
+        "status": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/status/10000",
+            "description": "",
+            "iconUrl": "https://sushant.jira-dev.com/images/icons/subtask.gif",
+            "name": "To Do",
+            "id": "10000",
+            "statusCategory": {
+                "self": "https://sushant.jira-dev.com/rest/api/2/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+            }
+        },
+        "components": [],
+        "timeoriginalestimate": null,
+        "description": "description",
+        "customfield_10010": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/customFieldOption/10001",
+            "value": "To Do",
+            "id": "10001"
+        },
+        "customfield_10011": "ghx-label-5",
+        "customfield_10012": "0|i00007:",
+        "customfield_10013": null,
+        "customfield_10014": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "customfield_10008": "epicname",
+        "attachment": [],
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "something's wrong",
+        "creator": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/user?username=schoudhary",
+            "name": "schoudhary",
+            "key": "schoudhary",
+            "emailAddress": "schoudhary@atlassian.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=48",
+                "24x24": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=24",
+                "16x16": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=16",
+                "32x32": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=32"
+            },
+            "displayName": "Administrator",
+            "active": true,
+            "timeZone": "Etc/GMT"
+        },
+        "subtasks": [],
+        "reporter": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/user?username=schoudhary",
+            "name": "schoudhary",
+            "key": "schoudhary",
+            "emailAddress": "schoudhary@atlassian.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=48",
+                "24x24": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=24",
+                "16x16": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=16",
+                "32x32": "https://secure.gravatar.com/avatar/1bef87fdd3a7b90e025de53393748abb?d=mm&s=32"
+            },
+            "displayName": "Administrator",
+            "active": true,
+            "timeZone": "Etc/GMT"
+        },
+        "customfield_10000": null,
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "comment": {
+            "startAt": 0,
+            "maxResults": 0,
+            "total": 0,
+            "comments": []
+        },
+        "votes": {
+            "self": "https://sushant.jira-dev.com/rest/api/2/issue/TES-2/votes",
+            "votes": 0,
+            "hasVoted": false
+        },
+        "worklog": {
+            "startAt": 0,
+            "maxResults": 20,
+            "total": 0,
+            "worklogs": []
+        }
+    }
+}
